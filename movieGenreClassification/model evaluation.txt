@@ -12,3 +12,10 @@ Accuracy: 27.73
 Precision: 0.72
 Recall: 0.28
 F1-score: 0.40
+
+
+Model Evaluation Metrics:
+Accuracy: 27.73
+Precision: 0.72
+Recall: 0.28
+F1-score: 0.40
